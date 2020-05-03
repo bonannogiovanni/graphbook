@@ -7,7 +7,7 @@ COPY webpack.client.build.config.js ./
 COPY src src
 COPY assets assets
 RUN npm install
-ENV NODE_ENV production
+ENV NODE_ENV productiongi
 ENV JWT_SECRET awv4BcIzsRysXkhoSAb8t8lNENgXSqBruVlLwd45kGdYjeJHLap9LUJ1t9DTdw36DvLcWs3qEkPyCY6vOyNljlh2Er952h2gDzYwG82rs1qfTzdVIg89KTaQ4SWI1YGY
 ENV username devuser
 ENV password DevUser2020!
