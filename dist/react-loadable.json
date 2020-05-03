@@ -1,0 +1,1576 @@
+{
+  "graphql-tag": [
+    {
+      "id": 89,
+      "name": "./node_modules/graphql-tag/src/index.js",
+      "file": "0.c6288521cd9b9f257069.js",
+      "publicPath": "/0.c6288521cd9b9f257069.js"
+    }
+  ],
+  "graphql/language/parser": [
+    {
+      "id": 127,
+      "name": "./node_modules/graphql/language/parser.mjs",
+      "file": "0.c6288521cd9b9f257069.js",
+      "publicPath": "/0.c6288521cd9b9f257069.js"
+    }
+  ],
+  "../helpers/safeHTMLElement": [
+    {
+      "id": 91,
+      "name": "./node_modules/react-modal/lib/helpers/safeHTMLElement.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "./util/bytesToSize": [
+    {
+      "id": 92,
+      "name": "./node_modules/@synapsestudios/react-drop-n-crop/lib/util/bytesToSize.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "classnames": [
+    {
+      "id": 96,
+      "name": "./node_modules/classnames/index.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "../helpers/tabbable": [
+    {
+      "id": 97,
+      "name": "./node_modules/react-modal/lib/helpers/tabbable.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "../helpers/ariaAppHider": [
+    {
+      "id": 98,
+      "name": "./node_modules/react-modal/lib/helpers/ariaAppHider.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "../helpers/portalOpenInstances": [
+    {
+      "id": 99,
+      "name": "./node_modules/react-modal/lib/helpers/portalOpenInstances.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "./util/fileSizeLessThan": [
+    {
+      "id": 100,
+      "name": "./node_modules/@synapsestudios/react-drop-n-crop/lib/util/fileSizeLessThan.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "./util/fileType": [
+    {
+      "id": 101,
+      "name": "./node_modules/@synapsestudios/react-drop-n-crop/lib/util/fileType.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "react-toastify": [
+    {
+      "id": 103,
+      "name": "./node_modules/react-toastify/esm/react-toastify.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "react-infinite-scroller": [
+    {
+      "id": 107,
+      "name": "./node_modules/react-infinite-scroller/index.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "./dist/InfiniteScroll": [
+    {
+      "id": 108,
+      "name": "./node_modules/react-infinite-scroller/dist/InfiniteScroll.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "@fortawesome/react-fontawesome": [
+    {
+      "id": 109,
+      "name": "./node_modules/@fortawesome/react-fontawesome/index.es.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "react-modal": [
+    {
+      "id": 110,
+      "name": "./node_modules/react-modal/lib/index.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "./components/Modal": [
+    {
+      "id": 111,
+      "name": "./node_modules/react-modal/lib/components/Modal.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "./ModalPortal": [
+    {
+      "id": 112,
+      "name": "./node_modules/react-modal/lib/components/ModalPortal.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "../helpers/focusManager": [
+    {
+      "id": 113,
+      "name": "./node_modules/react-modal/lib/helpers/focusManager.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "../helpers/scopeTab": [
+    {
+      "id": 114,
+      "name": "./node_modules/react-modal/lib/helpers/scopeTab.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "warning": [
+    {
+      "id": 115,
+      "name": "./node_modules/react-modal/node_modules/warning/warning.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    },
+    {
+      "id": 6,
+      "name": "./node_modules/warning/browser.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 7,
+      "name": "./node_modules/react-router/node_modules/warning/warning.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 23,
+      "name": "./node_modules/react-router-dom/node_modules/warning/warning.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 6,
+      "name": "./node_modules/warning/browser.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    },
+    {
+      "id": 7,
+      "name": "./node_modules/react-router/node_modules/warning/warning.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    },
+    {
+      "id": 23,
+      "name": "./node_modules/react-router-dom/node_modules/warning/warning.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "exenv": [
+    {
+      "id": 116,
+      "name": "./node_modules/exenv/index.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "../helpers/classList": [
+    {
+      "id": 117,
+      "name": "./node_modules/react-modal/lib/helpers/classList.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "../helpers/bodyTrap": [
+    {
+      "id": 118,
+      "name": "./node_modules/react-modal/lib/helpers/bodyTrap.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "react-lifecycles-compat": [
+    {
+      "id": 119,
+      "name": "./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "@synapsestudios/react-drop-n-crop": [
+    {
+      "id": 120,
+      "name": "./node_modules/@synapsestudios/react-drop-n-crop/lib/index.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "./DropNCrop": [
+    {
+      "id": 121,
+      "name": "./node_modules/@synapsestudios/react-drop-n-crop/lib/DropNCrop.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "react-cropper": [
+    {
+      "id": 122,
+      "name": "./node_modules/react-cropper/dist/react-cropper.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "cropperjs": [
+    {
+      "id": 123,
+      "name": "./node_modules/cropperjs/dist/cropper.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "react-dropzone": [
+    {
+      "id": 124,
+      "name": "./node_modules/react-dropzone/dist/index.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "lodash.includes": [
+    {
+      "id": 125,
+      "name": "./node_modules/lodash.includes/index.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "./util/dataUrlToFile": [
+    {
+      "id": 126,
+      "name": "./node_modules/@synapsestudios/react-drop-n-crop/lib/util/dataUrlToFile.js",
+      "file": "1.786f0d33c7c36d335ec8.js",
+      "publicPath": "/1.786f0d33c7c36d335ec8.js"
+    }
+  ],
+  "./error": [
+    {
+      "id": 90,
+      "name": "./src/client/components/error.js",
+      "file": "2.b1bc686f423f4360b7d6.js",
+      "publicPath": "/2.b1bc686f423f4360b7d6.js"
+    },
+    {
+      "id": 90,
+      "name": "./src/client/components/error.js",
+      "file": "4.5412c2b27193fcdd75aa.js",
+      "publicPath": "/4.5412c2b27193fcdd75aa.js"
+    }
+  ],
+  "./components/context/user": [
+    {
+      "id": 93,
+      "name": "./src/client/components/context/user.js",
+      "file": "2.b1bc686f423f4360b7d6.js",
+      "publicPath": "/2.b1bc686f423f4360b7d6.js"
+    }
+  ],
+  "./components/queries/postsFeed": [
+    {
+      "id": 94,
+      "name": "./src/client/components/queries/postsFeed.js",
+      "file": "2.b1bc686f423f4360b7d6.js",
+      "publicPath": "/2.b1bc686f423f4360b7d6.js"
+    }
+  ],
+  "./components/post/form": [
+    {
+      "id": 95,
+      "name": "./src/client/components/post/form.js",
+      "file": "2.b1bc686f423f4360b7d6.js",
+      "publicPath": "/2.b1bc686f423f4360b7d6.js"
+    }
+  ],
+  "./components/queries/currentUser": [
+    {
+      "id": 102,
+      "name": "./src/client/components/queries/currentUser.js",
+      "file": "2.b1bc686f423f4360b7d6.js",
+      "publicPath": "/2.b1bc686f423f4360b7d6.js"
+    }
+  ],
+  "./components/bar": [
+    {
+      "id": 104,
+      "name": "./src/client/components/bar/index.js",
+      "file": "2.b1bc686f423f4360b7d6.js",
+      "publicPath": "/2.b1bc686f423f4360b7d6.js"
+    }
+  ],
+  "./Chats": [
+    {
+      "id": 105,
+      "name": "./src/client/Chats.js",
+      "file": "2.b1bc686f423f4360b7d6.js",
+      "publicPath": "/2.b1bc686f423f4360b7d6.js"
+    }
+  ],
+  "./components/post/feedlist": [
+    {
+      "id": 106,
+      "name": "./src/client/components/post/feedlist.js",
+      "file": "2.b1bc686f423f4360b7d6.js",
+      "publicPath": "/2.b1bc686f423f4360b7d6.js"
+    }
+  ],
+  "prop-types": [
+    {
+      "id": 0,
+      "name": "./node_modules/prop-types/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 0,
+      "name": "./node_modules/prop-types/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "undefined": [
+    {
+      "id": "",
+      "name": null,
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": "",
+      "name": null,
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": "",
+      "name": null,
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": "",
+      "name": null,
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    },
+    {
+      "id": "",
+      "name": null,
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    },
+    {
+      "id": "",
+      "name": null,
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "react": [
+    {
+      "id": 1,
+      "name": "./node_modules/react/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 1,
+      "name": "./node_modules/react/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "apollo-utilities": [
+    {
+      "id": 2,
+      "name": "./node_modules/apollo-utilities/lib/bundle.esm.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 2,
+      "name": "./node_modules/apollo-utilities/lib/bundle.esm.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "ts-invariant": [
+    {
+      "id": 3,
+      "name": "./node_modules/ts-invariant/lib/invariant.esm.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 3,
+      "name": "./node_modules/ts-invariant/lib/invariant.esm.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "tslib": [
+    {
+      "id": 4,
+      "name": "./node_modules/tslib/tslib.es6.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 11,
+      "name": "./node_modules/apollo-utilities/node_modules/tslib/tslib.es6.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 4,
+      "name": "./node_modules/tslib/tslib.es6.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    },
+    {
+      "id": 11,
+      "name": "./node_modules/apollo-utilities/node_modules/tslib/tslib.es6.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "invariant": [
+    {
+      "id": 5,
+      "name": "./node_modules/invariant/browser.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 5,
+      "name": "./node_modules/invariant/browser.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "history": [
+    {
+      "id": 8,
+      "name": "./node_modules/history/es/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 8,
+      "name": "./node_modules/history/es/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "apollo-link": [
+    {
+      "id": 9,
+      "name": "./node_modules/apollo-link/lib/bundle.esm.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 9,
+      "name": "./node_modules/apollo-link/lib/bundle.esm.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "zen-observable-ts": [
+    {
+      "id": 10,
+      "name": "./node_modules/zen-observable-ts/lib/bundle.esm.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 10,
+      "name": "./node_modules/zen-observable-ts/lib/bundle.esm.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "graphql/language/visitor": [
+    {
+      "id": 12,
+      "name": "./node_modules/graphql/language/visitor.mjs",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 12,
+      "name": "./node_modules/graphql/language/visitor.mjs",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./../../webpack/buildin/global.js": [
+    {
+      "id": 13,
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 13,
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "react-router/es/matchPath": [
+    {
+      "id": 14,
+      "name": "./node_modules/react-router/es/matchPath.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 14,
+      "name": "./node_modules/react-router/es/matchPath.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "apollo-client": [
+    {
+      "id": 15,
+      "name": "./node_modules/apollo-client/bundle.esm.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 15,
+      "name": "./node_modules/apollo-client/bundle.esm.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./Link": [
+    {
+      "id": 16,
+      "name": "./node_modules/react-router-dom/es/Link.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 16,
+      "name": "./node_modules/react-router-dom/es/Link.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "graphql/language/printer": [
+    {
+      "id": 17,
+      "name": "./node_modules/graphql/language/printer.mjs",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 17,
+      "name": "./node_modules/graphql/language/printer.mjs",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "subscriptions-transport-ws": [
+    {
+      "id": 18,
+      "name": "./node_modules/subscriptions-transport-ws/dist/client.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 18,
+      "name": "./node_modules/subscriptions-transport-ws/dist/client.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "hoist-non-react-statics": [
+    {
+      "id": 19,
+      "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 43,
+      "name": "./node_modules/react-router/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 19,
+      "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    },
+    {
+      "id": 43,
+      "name": "./node_modules/react-router/node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "react-apollo": [
+    {
+      "id": 20,
+      "name": "./node_modules/react-apollo/react-apollo.esm.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 20,
+      "name": "./node_modules/react-apollo/react-apollo.esm.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./components/loading": [
+    {
+      "id": 21,
+      "name": "./src/client/components/loading.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 21,
+      "name": "./src/client/components/loading.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "object-assign": [
+    {
+      "id": 22,
+      "name": "./node_modules/object-assign/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 22,
+      "name": "./node_modules/object-assign/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "react-router/es/Route": [
+    {
+      "id": 24,
+      "name": "./node_modules/react-router/es/Route.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 24,
+      "name": "./node_modules/react-router/es/Route.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "path-to-regexp": [
+    {
+      "id": 25,
+      "name": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 25,
+      "name": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "react-loadable": [
+    {
+      "id": 26,
+      "name": "./node_modules/react-loadable/lib/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 26,
+      "name": "./node_modules/react-loadable/lib/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./../../process/browser.js": [
+    {
+      "id": 27,
+      "name": "./node_modules/process/browser.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 27,
+      "name": "./node_modules/process/browser.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "react-dom/server": [
+    {
+      "id": 28,
+      "name": "./node_modules/react-dom/server.browser.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 28,
+      "name": "./node_modules/react-dom/server.browser.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "../utils": [
+    {
+      "id": 29,
+      "name": "./node_modules/hash.js/lib/hash/utils.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 29,
+      "name": "./node_modules/hash.js/lib/hash/utils.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "minimalistic-assert": [
+    {
+      "id": 30,
+      "name": "./node_modules/minimalistic-assert/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 30,
+      "name": "./node_modules/minimalistic-assert/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "symbol-observable": [
+    {
+      "id": 31,
+      "name": "./node_modules/symbol-observable/es/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 31,
+      "name": "./node_modules/symbol-observable/es/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "lodash.isequal": [
+    {
+      "id": 32,
+      "name": "./node_modules/lodash.isequal/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 32,
+      "name": "./node_modules/lodash.isequal/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "react-dom": [
+    {
+      "id": 33,
+      "name": "./node_modules/react-dom/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 33,
+      "name": "./node_modules/react-dom/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./HelmetConstants.js": [
+    {
+      "id": 34,
+      "name": "./node_modules/react-helmet/lib/HelmetConstants.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 34,
+      "name": "./node_modules/react-helmet/lib/HelmetConstants.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "@fortawesome/fontawesome-svg-core": [
+    {
+      "id": 35,
+      "name": "./node_modules/@fortawesome/fontawesome-svg-core/index.es.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 35,
+      "name": "./node_modules/@fortawesome/fontawesome-svg-core/index.es.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "@wry/equality": [
+    {
+      "id": 36,
+      "name": "./node_modules/@wry/equality/lib/equality.esm.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 36,
+      "name": "./node_modules/@wry/equality/lib/equality.esm.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "../jsutils/inspect": [
+    {
+      "id": 37,
+      "name": "./node_modules/graphql/jsutils/inspect.mjs",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 37,
+      "name": "./node_modules/graphql/jsutils/inspect.mjs",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./nodejsCustomInspectSymbol": [
+    {
+      "id": 38,
+      "name": "./node_modules/graphql/jsutils/nodejsCustomInspectSymbol.mjs",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 38,
+      "name": "./node_modules/graphql/jsutils/nodejsCustomInspectSymbol.mjs",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./blockString": [
+    {
+      "id": 39,
+      "name": "./node_modules/graphql/language/blockString.mjs",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 39,
+      "name": "./node_modules/graphql/language/blockString.mjs",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "../language/kinds": [
+    {
+      "id": 40,
+      "name": "./node_modules/graphql/language/kinds.mjs",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 40,
+      "name": "./node_modules/graphql/language/kinds.mjs",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "react-helmet": [
+    {
+      "id": 41,
+      "name": "./node_modules/react-helmet/lib/Helmet.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 41,
+      "name": "./node_modules/react-helmet/lib/Helmet.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "react-router/es/withRouter": [
+    {
+      "id": 42,
+      "name": "./node_modules/react-router/es/withRouter.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 42,
+      "name": "./node_modules/react-router/es/withRouter.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./ponyfill.js": [
+    {
+      "id": 44,
+      "name": "./node_modules/symbol-observable/es/ponyfill.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 44,
+      "name": "./node_modules/symbol-observable/es/ponyfill.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "zen-observable": [
+    {
+      "id": 45,
+      "name": "./node_modules/zen-observable/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 45,
+      "name": "./node_modules/zen-observable/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "fast-json-stable-stringify": [
+    {
+      "id": 46,
+      "name": "./node_modules/fast-json-stable-stringify/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 46,
+      "name": "./node_modules/fast-json-stable-stringify/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "apollo-upload-client": [
+    {
+      "id": 47,
+      "name": "./node_modules/apollo-upload-client/lib/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 47,
+      "name": "./node_modules/apollo-upload-client/lib/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "react-router-dom": [
+    {
+      "id": 48,
+      "name": "./node_modules/react-router-dom/es/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 48,
+      "name": "./node_modules/react-router-dom/es/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./cjs/react.production.min.js": [
+    {
+      "id": 49,
+      "name": "./node_modules/react/cjs/react.production.min.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 49,
+      "name": "./node_modules/react/cjs/react.production.min.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./cjs/react-dom.production.min.js": [
+    {
+      "id": 50,
+      "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 50,
+      "name": "./node_modules/react-dom/cjs/react-dom.production.min.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "scheduler": [
+    {
+      "id": 51,
+      "name": "./node_modules/scheduler/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 51,
+      "name": "./node_modules/scheduler/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./cjs/scheduler.production.min.js": [
+    {
+      "id": 52,
+      "name": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 52,
+      "name": "./node_modules/scheduler/cjs/scheduler.production.min.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./factoryWithThrowingShims": [
+    {
+      "id": 53,
+      "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 53,
+      "name": "./node_modules/prop-types/factoryWithThrowingShims.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./lib/ReactPropTypesSecret": [
+    {
+      "id": 54,
+      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 54,
+      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "react-side-effect": [
+    {
+      "id": 55,
+      "name": "./node_modules/react-side-effect/lib/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 55,
+      "name": "./node_modules/react-side-effect/lib/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "shallowequal": [
+    {
+      "id": 56,
+      "name": "./node_modules/shallowequal/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 56,
+      "name": "./node_modules/shallowequal/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "react-fast-compare": [
+    {
+      "id": 57,
+      "name": "./node_modules/react-fast-compare/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 57,
+      "name": "./node_modules/react-fast-compare/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./HelmetUtils.js": [
+    {
+      "id": 58,
+      "name": "./node_modules/react-helmet/lib/HelmetUtils.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 58,
+      "name": "./node_modules/react-helmet/lib/HelmetUtils.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "../../assets/css/style.css": [
+    {
+      "id": 59,
+      "name": "./assets/css/style.css",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 59,
+      "name": "./assets/css/style.css",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "@synapsestudios/react-drop-n-crop/lib/react-drop-n-crop.min.css": [
+    {
+      "id": 60,
+      "name": "./node_modules/@synapsestudios/react-drop-n-crop/lib/react-drop-n-crop.min.css",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 60,
+      "name": "./node_modules/@synapsestudios/react-drop-n-crop/lib/react-drop-n-crop.min.css",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./../../timers-browserify/main.js": [
+    {
+      "id": 61,
+      "name": "./node_modules/timers-browserify/main.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 61,
+      "name": "./node_modules/timers-browserify/main.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "setimmediate": [
+    {
+      "id": 62,
+      "name": "./node_modules/setimmediate/setImmediate.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 62,
+      "name": "./node_modules/setimmediate/setImmediate.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "isarray": [
+    {
+      "id": 63,
+      "name": "./node_modules/isarray/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 63,
+      "name": "./node_modules/isarray/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "react-toastify/dist/ReactToastify.css": [
+    {
+      "id": 64,
+      "name": "./node_modules/react-toastify/dist/ReactToastify.css",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 64,
+      "name": "./node_modules/react-toastify/dist/ReactToastify.css",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./../webpack/buildin/module.js": [
+    {
+      "id": 65,
+      "name": "./node_modules/webpack/buildin/module.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 65,
+      "name": "./node_modules/webpack/buildin/module.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "react-is": [
+    {
+      "id": 66,
+      "name": "./node_modules/react-is/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 66,
+      "name": "./node_modules/react-is/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./cjs/react-is.production.min.js": [
+    {
+      "id": 67,
+      "name": "./node_modules/react-is/cjs/react-is.production.min.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 67,
+      "name": "./node_modules/react-is/cjs/react-is.production.min.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./../../webpack/buildin/harmony-module.js": [
+    {
+      "id": 68,
+      "name": "./node_modules/webpack/buildin/harmony-module.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 68,
+      "name": "./node_modules/webpack/buildin/harmony-module.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./lib/Observable.js": [
+    {
+      "id": 69,
+      "name": "./node_modules/zen-observable/lib/Observable.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 69,
+      "name": "./node_modules/zen-observable/lib/Observable.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./cjs/react-dom-server.browser.production.min.js": [
+    {
+      "id": 70,
+      "name": "./node_modules/react-dom/cjs/react-dom-server.browser.production.min.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 70,
+      "name": "./node_modules/react-dom/cjs/react-dom-server.browser.production.min.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "backo2": [
+    {
+      "id": 71,
+      "name": "./node_modules/backo2/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 71,
+      "name": "./node_modules/backo2/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "eventemitter3": [
+    {
+      "id": 72,
+      "name": "./node_modules/eventemitter3/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 72,
+      "name": "./node_modules/eventemitter3/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./utils/is-string": [
+    {
+      "id": 73,
+      "name": "./node_modules/subscriptions-transport-ws/dist/utils/is-string.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 73,
+      "name": "./node_modules/subscriptions-transport-ws/dist/utils/is-string.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./utils/is-object": [
+    {
+      "id": 74,
+      "name": "./node_modules/subscriptions-transport-ws/dist/utils/is-object.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 74,
+      "name": "./node_modules/subscriptions-transport-ws/dist/utils/is-object.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "graphql/utilities/getOperationAST": [
+    {
+      "id": 75,
+      "name": "./node_modules/graphql/utilities/getOperationAST.mjs",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 75,
+      "name": "./node_modules/graphql/utilities/getOperationAST.mjs",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./protocol": [
+    {
+      "id": 76,
+      "name": "./node_modules/subscriptions-transport-ws/dist/protocol.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 76,
+      "name": "./node_modules/subscriptions-transport-ws/dist/protocol.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./defaults": [
+    {
+      "id": 77,
+      "name": "./node_modules/subscriptions-transport-ws/dist/defaults.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 77,
+      "name": "./node_modules/subscriptions-transport-ws/dist/defaults.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./message-types": [
+    {
+      "id": 78,
+      "name": "./node_modules/subscriptions-transport-ws/dist/message-types.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 78,
+      "name": "./node_modules/subscriptions-transport-ws/dist/message-types.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "hash.js/lib/hash/sha/256": [
+    {
+      "id": 79,
+      "name": "./node_modules/hash.js/lib/hash/sha/256.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 79,
+      "name": "./node_modules/hash.js/lib/hash/sha/256.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "inherits": [
+    {
+      "id": 80,
+      "name": "./node_modules/inherits/inherits_browser.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 80,
+      "name": "./node_modules/inherits/inherits_browser.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "../common": [
+    {
+      "id": 81,
+      "name": "./node_modules/hash.js/lib/hash/common.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 81,
+      "name": "./node_modules/hash.js/lib/hash/common.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./common": [
+    {
+      "id": 82,
+      "name": "./node_modules/hash.js/lib/hash/sha/common.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 82,
+      "name": "./node_modules/hash.js/lib/hash/sha/common.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "apollo-link-http-common": [
+    {
+      "id": 83,
+      "name": "./node_modules/apollo-link-http-common/lib/bundle.esm.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 83,
+      "name": "./node_modules/apollo-link-http-common/lib/bundle.esm.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./src/client/index.js": [
+    {
+      "id": 84,
+      "name": "./src/client/index.js",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 84,
+      "name": "./src/client/index.js",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "extract-files": [
+    {
+      "id": 85,
+      "name": "./node_modules/extract-files/lib/index.mjs",
+      "file": "bundle.css",
+      "publicPath": "/bundle.css"
+    },
+    {
+      "id": 85,
+      "name": "./node_modules/extract-files/lib/index.mjs",
+      "file": "bundle.js",
+      "publicPath": "/bundle.js"
+    }
+  ],
+  "./components/loginregister": [
+    {
+      "id": 88,
+      "name": "./src/client/components/loginregister.js",
+      "file": "4.5412c2b27193fcdd75aa.js",
+      "publicPath": "/4.5412c2b27193fcdd75aa.js"
+    }
+  ],
+  "./Main": [
+    {
+      "id": 87,
+      "name": "./src/client/Main.js",
+      "file": "5.c8c8a0cfcb03a5ec2465.js",
+      "publicPath": "/5.c8c8a0cfcb03a5ec2465.js"
+    }
+  ],
+  "./User": [
+    {
+      "id": 86,
+      "name": "./src/client/User.js",
+      "file": "6.dbf71b10fe7dddfaef80.js",
+      "publicPath": "/6.dbf71b10fe7dddfaef80.js"
+    }
+  ]
+}

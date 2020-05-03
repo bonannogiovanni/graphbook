@@ -1,0 +1,10 @@
+NODE_ENV=development
+JWT_SECRET=awv4BcIzsRysXkhoSAb8t8lNENgXSqBruVlLwd45kGdYjeJHLap9LUJ1t9DTdw36DvLcWs3qEkPyCY6vOyNljlh2Er952h2gDzYwG82rs1qfTzdVIg89KTaQ4SWI1YGY
+AWS_ACCESS_KEY_ID=AKIAJMF24TLLEKA2Y53A
+AWS_SECRET_ACCESS_KEY=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
+ENGINE_API_KEY=user:gh.bonannogiovanni:FTL4eqePAVEOKKqu3ADblA
+ENGINE_KEY=service:my-graphbook:bzHhWRjdtDPlcIBkVTAE1Q
+username=devuser
+password=DevUser2020!
+database=graphbook_dev
+host=192.168.178.34
